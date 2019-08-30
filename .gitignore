@@ -2,4 +2,5 @@ datasets/
 models/
 images/
 tf_logs/
+__pycache__/
 .ipynb_checkpoints/
